@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to Little ant - Bro Ek</title>
+  <desc id="desc">Colorful network inspired banner with a dark blue, cyan, and violet gradient.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081A2B"/>
+      <stop offset="55%" stop-color="#132C52"/>
+      <stop offset="100%" stop-color="#30205D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="55%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity=".42"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#BFEAFF" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <ellipse cx="970" cy="120" rx="340" ry="230" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2">
+    <path d="M690 57H815L875 117H1035L1105 47"/>
+    <path d="M740 155H835L900 90H1005L1070 155H1165"/>
+    <path d="M700 240H820L885 175H1025L1090 240H1180"/>
+    <path d="M930 25V74M985 155V205M1115 155V215"/>
+    <path d="M820 57V118M900 175V240"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="690" cy="57" r="5"/><circle cx="815" cy="57" r="5"/>
+    <circle cx="875" cy="117" r="5"/><circle cx="1035" cy="117" r="5"/>
+    <circle cx="1105" cy="47" r="5"/><circle cx="740" cy="155" r="5"/>
+    <circle cx="900" cy="90" r="5"/><circle cx="1070" cy="155" r="5"/>
+    <circle cx="1165" cy="155" r="5"/><circle cx="700" cy="240" r="5"/>
+    <circle cx="885" cy="175" r="5"/><circle cx="1025" cy="175" r="5"/>
+    <circle cx="1180" cy="240" r="5"/>
+  </g>
+  <g fill="#C4B5FD">
+    <circle cx="930" cy="25" r="4"/><circle cx="985" cy="205" r="4"/>
+    <circle cx="1115" cy="215" r="4"/><circle cx="820" cy="118" r="4"/>
+    <circle cx="900" cy="240" r="4"/>
+  </g>
+  <text x="78" y="82" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">NETWORK · DNS · INFRASTRUCTURE · WEB</text>
+  <text x="74" y="158" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750">Welcome to Little ant - Bro Ek</text>
+  <text x="78" y="204" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Jaringan, DNS, server, dan aplikasi web—dirangkai satu per satu.</text>
+  <rect x="78" y="236" width="150" height="5" rx="2.5" fill="url(#accent)"/>
+</svg>
