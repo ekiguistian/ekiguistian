@@ -84,13 +84,13 @@ Penerapan AI untuk membantu otomasi, monitoring, dan analisis proses operasional
 ## Repo pilihan
 
 <p align="center">
-  <a href="https://github.com/ekiguistian/mynet"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=mynet&amp;theme=tokyonight&amp;hide_border=true" alt="mynet repository card with star and fork counts" /></a>
+  <a href="[https://github.com/ekiguistian/Unbound_DNS_Web-Manager]"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=mynet&amp;theme=tokyonight&amp;hide_border=true" alt="mynet repository card with star and fork counts" /></a>
   <a href="https://github.com/ekiguistian/dns-trustpositif"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=dns-trustpositif&amp;theme=tokyonight&amp;hide_border=true" alt="dns-trustpositif repository card with star and fork counts" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ekiguistian/webhook_uptimekuma-sendwa"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=webhook_uptimekuma-sendwa&amp;theme=tokyonight&amp;hide_border=true" alt="Uptime Kuma webhook repository card with star and fork counts" /></a>
-  <a href="https://github.com/ekiguistian/Install_GenieACS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=Install_GenieACS&amp;theme=tokyonight&amp;hide_border=true" alt="GenieACS installation repository card with star and fork counts" /></a>
+  <a href="]https://github.com/ekiguistian/webhook_uptimekuma-sendwa]"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=Install_GenieACS&amp;theme=tokyonight&amp;hide_border=true" alt="GenieACS installation repository card with star and fork counts" /></a>
 </p>
 
 ## Statistik GitHub
