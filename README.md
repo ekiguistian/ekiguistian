@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.ekiguistian.com"><img alt="Website: www.ekiguistian.com" src="https://img.shields.io/badge/Website-www.ekiguistian.com-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" /></a>
-  <a href="https://paypal.me/ekiguistian22"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-Support-00457C?style=flat-square&amp;logo=paypal&amp;logoColor=white" /></a>
+  <a href="https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t">Traktir Eki Segelas Kopi</a>
 </p>
 
 ## Sedikit tentang saya
@@ -103,3 +103,11 @@ Penerapan AI untuk membantu otomasi, monitoring, dan analisis proses operasional
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ekiguistian&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Aktivitas%20GitHub" alt="Grafik aktivitas GitHub" />
 </p>
+
+## Dukungan anda berarti bagi saya untuk mengembangkan dan menemukan lebih banyak inspirasi.
+
+[Traktir Eki Segelas Kopi](https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t)
+
+<a href="https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t">
+  <img src="./G025119549_Payment_Link_b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t.png" alt="QR Traktir Eki Segelas Kopi" width="320" />
+</a>
