@@ -81,29 +81,6 @@ Semut kecil di dunia jaringan, DNS, server, dan aplikasi web. Saya senang merang
 
 Penerapan AI untuk membantu otomasi, monitoring, dan analisis proses operasional.
 
-## Repo pilihan
-
-<p align="center">
-  <a href="[https://github.com/ekiguistian/Unbound_DNS_Web-Manager]"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=mynet&amp;theme=tokyonight&amp;hide_border=true" alt="mynet repository card with star and fork counts" /></a>
-  <a href="https://github.com/ekiguistian/dns-trustpositif"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=dns-trustpositif&amp;theme=tokyonight&amp;hide_border=true" alt="dns-trustpositif repository card with star and fork counts" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ekiguistian/webhook_uptimekuma-sendwa"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=webhook_uptimekuma-sendwa&amp;theme=tokyonight&amp;hide_border=true" alt="Uptime Kuma webhook repository card with star and fork counts" /></a>
-  <a href="]https://github.com/ekiguistian/webhook_uptimekuma-sendwa]"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ekiguistian&amp;repo=Install_GenieACS&amp;theme=tokyonight&amp;hide_border=true" alt="GenieACS installation repository card with star and fork counts" /></a>
-</p>
-
-## Statistik GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ekiguistian&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" alt="Ringkasan statistik GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiguistian&amp;layout=donut&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Distribusi bahasa pada repository publik" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ekiguistian&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Aktivitas%20GitHub" alt="Grafik aktivitas GitHub" />
-</p>
-
 ## Dukungan anda berarti bagi saya untuk mengembangkan dan menemukan lebih banyak inspirasi.
 
 [Traktir Eki Segelas Kopi](https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t)
